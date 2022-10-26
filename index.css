@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: goldenrod; */
+}
+#textarea{
+    width: 100%;
+    padding: 10px 20px ;
+    border: 1px solid green;
+    box-sizing: border-box;
+    min-width: 400px;
+}
+#Savebutton{
+    color: white;
+    margin-top: 5px;
+    font-weight:bolder;
+    padding: 10px 20px;
+    background-color: black;
+    border: 1px solid green;
+}
+#Savebutton:hover{
+    color: black;
+    background-color: white;
+}
+#Deletebutton{
+    color: white;
+    margin-top: 5px;
+    font-weight: bolder;
+    padding: 10px 30px;
+    background-color: black;
+    border: 1px solid green;
+}
+#Deletebutton:hover{
+    background-color: gainsboro;
+    color: black;
+}
+#Save-tab{
+    color: white;
+    margin-top: 5px;
+    font-weight: bolder;
+    padding: 10px 30px;
+    background-color: black;
+    border: 1px solid green;
+}
+#Save-tab:hover{
+    background-color: gainsboro;
+    color: black;
+}
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
